@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @avinashkum4r
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning ethical hacking
-- 💞️ I’m looking to collaborate on information security projects
+- 👀 I’m a data analyst and data engineer by profession but I have a love for cyber security
 - 📫 How to reach me, email: avi.sanu05@gmail.com
 
 <!---
